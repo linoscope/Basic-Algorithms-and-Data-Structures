@@ -14,7 +14,7 @@ private:
     for (int i = 0; i < n; i++) {
       par[i] = i; rank[i] = 0;
     }
-}
+  }
 
 public:
   UnionFind(int size) {
