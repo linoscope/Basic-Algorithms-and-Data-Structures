@@ -1,4 +1,3 @@
-DataStructures
+Basic Algorithms and Data Structures
 ====
-
-Useful data structures for competitive programming.
+復習用に実装した雑多なアルゴリズム・データ構造
