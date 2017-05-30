@@ -29,7 +29,6 @@ public:
 
   int pop() {
     Node* nxt_head = head -> next;
-    printf("%p\n", head);
     int ret = head -> x;
     delete head;
     head = nxt_head;
