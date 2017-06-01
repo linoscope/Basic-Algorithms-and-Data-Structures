@@ -52,7 +52,6 @@ int main() {
   cout << l.pop() << endl;
   cout << l.pop() << endl;
   cout << l.pop() << endl;
-  cout << l.pop() << endl;
 
   return 0;
 }
